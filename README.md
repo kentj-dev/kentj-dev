@@ -29,7 +29,6 @@
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kentj-dev&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=kentj-dev&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kentj-dev&theme=one_dark_pro&hide_border=true)
 
 ---
