@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Kent
 
-🎓 **IT Graduate** at STI College  <br>
 💻 **Full-Stack Web Developer**  <br>
 🏢 Working at the **Commission on Higher Education** <br>
+🧩 Currently focused on Laravel + React (Inertia.js + Shadcn UI) and Next.js  <br>
 📂 Previously known as [@kenyzin8](https://github.com/kenyzin8)
 
 ### 💻 Tech Stack
