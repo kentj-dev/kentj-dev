@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Kent
 
 💻 **Full-Stack Web Developer**  <br>
-🏢 Working at the **Commission on Higher Education** <br>
 🧩 Currently focused on Laravel + React (Inertia.js + Shadcn UI) <br>
 📂 Previously known as [@kenyzin8](https://github.com/kenyzin8)
 
