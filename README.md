@@ -26,11 +26,4 @@ Previously known as [@kenyzin8](https://github.com/kenyzin8)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kentj-dev&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kentj-dev&theme=one_dark_pro&hide_border=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kentj-dev&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
