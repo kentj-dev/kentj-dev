@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Kent
 
-💻 **Full-Stack Web Developer**  <br>
-🧩 Currently focused on Laravel + React (Inertia.js + Shadcn UI) <br>
-📂 Previously known as [@kenyzin8](https://github.com/kenyzin8)
+**Full-Stack Web Developer**  <br>
+Currently focused on Laravel + React (Inertia.js + Shadcn UI) <br>
+Previously known as [@kenyzin8](https://github.com/kenyzin8)
 
-### 💻 Tech Stack
+### Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
